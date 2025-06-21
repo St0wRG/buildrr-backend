@@ -3,4 +3,4 @@ Flask-Cors
 Flask-Mail
 Flask-SQLAlchemy
 gunicorn
-python-dotenv
+python-dotenvgunicorn
